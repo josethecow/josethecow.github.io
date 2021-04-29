@@ -1,0 +1,127 @@
+#page title
+page_title                                : Jose The Cow                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             : https://discord.com/oauth2/authorize?client_id=797279648911327247&permissions=8&scope=bot                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    : https://discord.com/oauth2/authorize?client_id=797279648911327247&permissions=8&scope=bot                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/joseicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Jose The Cow                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Discord Bot                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : The World's First Discord Cow.
+
+enable_smart_app_banner                   : false                                   # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Jose The Cow                             
+your_link                                 : https://discord.com/oauth2/authorize?client_id=797279648911327247&permissions=8&scope=bot              
+your_city                                 : Jose's Farm                           
+email_address                             : help.jose.the.cow@gmail.com
+github_username                           : josethecow
+youtube_username                          : The JTC Team
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Economy
+    description                           : Unique economy commands that allow you to integrate many different elements of real world banking into Discord.
+    fontawesome_icon_name                 : star
+    
+  - title                                 : Food
+    description                           : Not seen in many Discord bots, Jose's food commands let you buy virtual food from a variety of different restaurants! 
+    fontawesome_icon_name                 : star
+
+  - title                                 : Fun
+    description                           : Enjoyable commands like say, chat, and meme to get some laughs in your server!
+    fontawesome_icon_name                 : star
+
+  - title                                 : Moderation
+    description                           : Administrator commands that make it easy to moderate your Discord server.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Music
+    description                           : Neat music commands to use when you and some friends-or just you-are gaming, coolin' off, or maybe even having a conference in your voice channel to add some tunes to your calls!
+    fontawesome_icon_name                 : star
+  
+  - title                                 : Utility
+    description                           : Simple command extras like help and setprefix for your server!
+    fontawesome_icon_name                 : star
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
+theme: jekyll-theme-cayman
