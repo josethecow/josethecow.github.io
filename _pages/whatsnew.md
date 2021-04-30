@@ -42,7 +42,7 @@ Phase 2 brings new features that no one thought could be brought to Jose! Rememb
 - ban / Ban a member from the guild
 - kick / Kick a member from the guild
 - mute / Mute a member from the guild (removes permissions to text in channels until unmuted)
-- unmute  Unmute a member from the guild
+- unmute / Unmute a member from the guild
 #### Food
 ### A unique set of commands, here is the food command list:
 - beastburger / Order from Mr. Beast's Virtual Discord restaurant: Mr. Beast Burger!
