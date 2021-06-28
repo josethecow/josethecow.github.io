@@ -6,5 +6,4 @@ include_in_header: true
 # Welcome to the Teamlog!
 # The JTC Teamlog is a blog page where you can see the JTC team's posts, announcements, and so. much. more.
 
-![alt text](https://media.discordapp.net/attachments/797594919996751935/859145382130089984/1BY6sCRisdVuk5GyPL_q7rw-2.png) 
-rocketfue1
+<img alt="Sara A. Metwalli" class="s iq ij ii" src="https://miro.medium.com/fit/c/56/56/1*BY6sCRisdVuk5GyPL_q7rw.jpeg" width="28" height="28">
