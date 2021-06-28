@@ -5,5 +5,7 @@ include_in_header: true
 ---
 # Welcome to the Teamlog!
 # The JTC Teamlog is a blog page where you can see the JTC team's posts, announcements, and so. much. more.
+-
+## RocketFue1
+What's up farmers! This is the first post, and I'm really just testing this, but, seems like it's going good... **or is it?**
 
-<img alt="Sara A. Metwalli" src="https://miro.medium.com/fit/c/56/56/1*BY6sCRisdVuk5GyPL_q7rw.jpeg" width="28" height="28">
