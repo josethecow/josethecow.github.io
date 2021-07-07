@@ -8,4 +8,7 @@ include_in_header: true
 -
 ## RocketFue1 - Jun 28
 What's up farmers! This is the first post, and I'm really just testing this, but, seems like it's going good... **or is it?**
+-
+## RocketFue1 - July 7
+we're making a bot course...
 
