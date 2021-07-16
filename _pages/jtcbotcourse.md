@@ -1,4 +1,5 @@
 ---
+layout: page
 title: JTC Bot Course
 include_in_header: true
 ---
