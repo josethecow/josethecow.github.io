@@ -7,7 +7,7 @@ include_in_header: true
 The GitHub for the not-so-world-famous Jose The Cow Discord.JS Bot Tutorial, found on our [YouTube channel](https://www.youtube.com/channel/UCkMW8EKQ48W9_c754vhn5Hg)!
 
 # Episode Source Codes
-- [**Ep. 1 - Creating The Bot**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%201%20-%20Creating%20The%20Bot)
+- [**Ep. 1 - Creating The Bot**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%201%20-%20Creating%20The%20Bot) <a href="#" class="hbtn hb-border-right-br3 hpill hbor4">Download</a>
 
 - [**Ep. 2 - Config + Command Handler**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%202%20-%20Config%20%2B%20Command%20Handler)
 
