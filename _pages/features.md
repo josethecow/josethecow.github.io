@@ -32,6 +32,7 @@ include_in_header: true
 ### Moderation Commands
 - kick [@member] | Kick a member from your server!
 - ban [@member] | Ban a memb er from your server!
+- clear [1-99] | Clear a specific amount of messages from a channel!
 
 ### Utility Commands
 - calculator | Calculate an equation!
