@@ -5,54 +5,69 @@ include_in_header: true
 ---
 
 # What's New
-Welcome to Jose The Cow Phase 2! New features, cleaned up, well, everything, and of course, more grass!
+Welcome to Jose The Cow Version 2.1! New features, cleaned up, well, everything, and of course, more grass!
 
 <br>
 
 ### `Latest`
-# **Phase 2**
-Phase 2 brings new features that no one thought could be brought to Jose! Remember, the default prefix is `j`, but you can change it using the `setprefix` command. So, in this list, there is no prefix shown for the commands as it is possible that you have changed it. Anyway, the list of new cool commands includes...
+# **v2.1**
+`v2.1` brings new features to Jose, focusing on the game + fun aspect of JTC! Anyway, here's the full list of the Jose The Cow commands + some new commands!
 
-#### Music Commands
-### In this update, we've brought music commands to Jose. The following is all the commands you can use for music: 
-- autoplay / Toggles autoplay on or off
-- leave / Have Jose leave the voice channel
-- pause / Pause the playing audio
-- play [track] / Play a track
-- queue / Shows the queue
-- resume / Resume the paused track
-- volume [number] / Set the volume to a set number from 0-100
-#### Economy
-### We've brought economy commands to Jose. The following is all the commands you can use for economy:
-- beg / Beg for money
-- bet / Bet a specified amount of Grassbux
-- buy [item] / Buy an item from the shop
-- card / Display your jCard with balance, bank, and more
-- coinflip / Flip a coin and bet money on it
-- daily / Get your daily reward of Grassbux
-- dep / Deposit Grassbux into your bank
-- fish / Fish. Self-explanatory.
-- hunt / Hunt for something
-- inventory / Display your inventory
-- shop / Buy things that will appear in your inventory
-- withdraw / Withdraw Grassbux from your bank
-- work / Work for Grassbux
-#### Moderation
-### We've also done some programming to bring you some extra moderation commands for all you Admins out there! Here are the commands:
-- ban / Ban a member from the guild
-- kick / Kick a member from the guild
-- mute / Mute a member from the guild (removes permissions to text in channels until unmuted)
-- unmute / Unmute a member from the guild
-#### Food
-### A unique set of commands, here is the food command list:
-- beastburger / Order from Mr. Beast's Virtual Discord restaurant: Mr. Beast Burger!
-- chick-fil-a / Order from the famous (yet virtual) Chick-Fil-A
-- chipotle / Order from Chipotle 
-- mcjg / Order from a special restaurant filled with specialty dishes made to pay homage to the JTC Team's friends!
-#### Fun
-### Funni commands:
-- cow / Cow
-- meme / Get funni Reddit meme time
-- say [something] / Ask Jose to say something
+### Music Commands
+- play [song] | Play a song!
+- pause | Pause the playing song!
+- resume | Continue the song where it was left off!
+- skip | Skip a song in the queue!
+- queue | Check out the list of songs that are playing next!
+- autoplay | Toggles autoplay on or off!
+- volume [1-100] | Set the volume!
+- shuffle | Shuffle the queue!
+- leave | No more music time? Jose will fly out of the voice channel.
 
-If you need to see the full list of commands, do `help` in your server with Jose! And of course, enjoy Jose The Cow - Phase 2!
+### Economy Commands
+- shop | Displays the shop!
+- beg | Jose is busy, but he might be able to give some money.
+- card | Displays your jCard (user and economy information)!
+- work | Work for some Grassbux!
+- buy [item] | An alternative to `shop`!
+- daily | Jose's daily gift to you!
+
+### Food Commands
+- chipotle | You know what time it is!
+- mrburger | Order from Mr. Beast Burger!
+- chickfila | Order from the land of Chicken!
+
+### Moderation Commands
+- kick [@member] | Kick a member from your server!
+- ban [@member] | Ban a memb er from your server!
+- clear [1-99] | Clear a specific amount of messages from a channel!
+
+### Utility Commands
+- calculator | Calculate an equation! (NEW!)
+- help | Some super Jose help!
+- weather [location] | Check the weather for a location!
+- setprefix [new-prefix] | Set a new prefix for Jose (default is `j`)!
+
+### Miscalleanous Commands
+- credits | Jose The Cow Credits!
+- invite | Invite Jose to your server!
+- galaxia | Invites you to Jose's very first server!
+- suggest [suggestion] | Suggest a new feature for Jose!
+- support | Invites you to the Official JTC Support Server.
+- vote | Vote for Jose on top.gg!
+- surrealism | Check out Surreal's very own bot!
+- youtube | Check out the JTC Team YouTube!
+
+### Fun Commands
+- cow | C O W 
+- do [@member] [messagetext] | Make it look like another user said something!
+- meme | A fresh meme coming right up!
+- say [messagetext] | Have Jose say something!
+- rps [@member] | Play Rock Paper Scissors with someone! (NEW!)
+- fight [@member] | Fight a member of your server! (NEW!)
+- guessnumber | Play guess the number! (NEW!)
+- snake | Play S N E K (NEW!)
+- ytogether | Watch YouTube with friends right in Discord! (NEW!)
+
+
+Enjoy Jose The Cow - v2.1!
