@@ -7,8 +7,6 @@ include_in_header: true
 # What's New
 Welcome to Jose The Cow Version 2.1! New features, cleaned up, well, everything, and of course, more grass!
 
-<br>
-
 ### `Latest`
 # **v2.1**
 `v2.1` brings new features to Jose, focusing on the game + fun aspect of JTC! Anyway, here's the full list of the Jose The Cow commands + some new commands!
