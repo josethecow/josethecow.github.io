@@ -3,7 +3,7 @@ layout: page
 title: Features
 include_in_header: true
 ---
-### Features - 2.1 Update
+### Features - v2.1
 
 ### Music Commands
 - play [song] | Play a song!
