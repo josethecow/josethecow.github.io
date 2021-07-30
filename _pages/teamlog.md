@@ -11,4 +11,6 @@ What's up farmers! This is the first post, and I'm really just testing this, but
 -
 ## RocketFue1 - July 7
 we're making a bot course...
-
+-
+## The Team [RocketFue1] - July 30
+The first episode of the bot course is out, and 2.1 has also been released! Make sure to check it out!
