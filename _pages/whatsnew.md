@@ -3,8 +3,6 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-<link rel="shortcut icon" href="https://i.postimg.cc/J7P6hmzT/josethecowicon.png" type="image/x-icon" />
-
 # What's New
 Welcome to Jose The Cow Version 2.1! New features, cleaned up, well, everything, and of course, more grass!
 
