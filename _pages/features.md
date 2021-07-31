@@ -3,10 +3,6 @@ layout: page
 title: Features
 include_in_header: true
 ---
-<!DOCTYPE HTML>
-<link rel="shortcut icon" type="image/x-icon" href="josethecowicon.ico">
-<html>
- 
 ### Features - v2.1
 
 ### Music Commands
