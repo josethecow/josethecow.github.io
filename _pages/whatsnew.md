@@ -36,7 +36,7 @@ Welcome to Jose The Cow Version 2.1! New features, cleaned up, well, everything,
 
 ### Moderation Commands
 - kick [@member] | Kick a member from your server!
-- ban [@member] | Ban a memb er from your server!
+- ban [@member] | Ban a member from your server!
 - clear [1-99] | Clear a specific amount of messages from a channel!
 
 ### Utility Commands
