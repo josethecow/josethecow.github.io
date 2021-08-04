@@ -8,6 +8,7 @@ The GitHub for the not-so-world-famous Jose The Cow Discord.JS Bot Tutorial, fou
 
 # Episode Source Codes
 - [**Ep. 1 - Creating The Bot**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%201%20-%20Creating%20The%20Bot) - [**Video Tutorial**](https://www.youtube.com/watch?v=AmRSjZg3_mY)
+- [**Ep. 2 - Config + Command Handler**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%202%20-%20Config%20%2B%20Command%20Handler) - [**Video Tutorial**](https://youtu.be/xYSi_i7Uy7Q)
 
 # Prerequisities
 - [**node.js**](https://nodejs.org/en/download)
