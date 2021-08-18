@@ -5,6 +5,8 @@ include_in_header: true
 ---
 ### Features - Phase 3 (v3)
 
+**Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
+
 ### Economy Commands
 - beg | Beg for some Grassbux from Jose!
 - card | Check out your jCard to see your balance and more user info!
