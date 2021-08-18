@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 # What's New
-Welcome to Jose The Cow Version 3 aka Phase 3! New features, we cleaned up everything, and of course, more grass, and **slash commands!**
+Welcome to Jose The Cow Version 3 aka Phase 3! New features, we cleaned up a lot of stuff, added more grass, and **slash commands!**
 
 ### `Latest`
 # **v3**
