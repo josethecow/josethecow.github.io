@@ -6,8 +6,9 @@ include_in_header: true
 # What's New
 Welcome to Jose The Cow Version 3 aka Phase 3! New features, we cleaned up a lot of stuff, added more grass, and **slash commands!**
 
-### `Latest` # **v3**
-`v3` brings new features to Jose, focusing on new slash commands! Anyway, here's the full list of the Jose The Cow commands + some new commands!
+### `Latest` 
+# **Phase 3 | v3**
+`Phase 3 | v3` brings new features to Jose, focusing on new slash commands! Anyway, here's the full list of the Jose The Cow commands + some new commands!
 
 **Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
 
