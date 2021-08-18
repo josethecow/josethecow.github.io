@@ -11,7 +11,7 @@ The GitHub for the not-so-world-famous Jose The Cow Discord.JS Bot Tutorial, fou
 - [**Ep. 2 - Config + Command Handler**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%202%20-%20Config%20%2B%20Command%20Handler) - [**Video Tutorial**](https://youtu.be/xYSi_i7Uy7Q)
 - [**Ep. 3 - Command Folders**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%203%20-%20Command%20Folders) - [**Video Tutorial**](https://youtu.be/H1tnOrbo0NI)
 
--[**Ep. 4 - Economy Commands**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%204%20-%20Economy%20Commands) - [**Video Tutorial**](https://youtu.be/pUZTtpxNMcE)
+- [**Ep. 4 - Economy Commands**](https://github.com/josethecow/josethecow-bot-course/tree/main/Ep.%204%20-%20Economy%20Commands) - [**Video Tutorial**](https://youtu.be/pUZTtpxNMcE)
 
 # Prerequisities
 - [**node.js**](https://nodejs.org/en/download)
