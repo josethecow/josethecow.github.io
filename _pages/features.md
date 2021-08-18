@@ -3,7 +3,7 @@ layout: page
 title: Features
 include_in_header: true
 ---
-### Features - Phase 3
+### Features - Phase 3 (v3)
 
 ### Economy Commands
 - beg | Beg for some Grassbux from Jose!
