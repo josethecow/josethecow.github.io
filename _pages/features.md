@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Features
-include_in_header: true
+include_in_header: true 
 ---
-### Features - Phase 3 (v3)
+### Features - The Christmas Update (v4)
 
 **Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
 
@@ -24,6 +24,7 @@ include_in_header: true
 - ascii | Convert text to ASCII!
 - betrayal | Play Betrayal with friends!
 - chess | Play Chess In The Park with friends!
+- christmas-countdown | Jose's Countdown to Christmas! (NEW!)
 - cow | Receive a cow!
 - impersonate | Make it seem like another user is talking!
 - fishing | Play Fishington with friends!
@@ -42,6 +43,13 @@ include_in_header: true
 - vote | Vote for Jose The Cow on top.gg!
 - youtube | Check out the JTC Team YouTube!
 
+### Music Commands (ALL NEW)
+- christmas-radio | Play Jose's very own holiday radio with Christmas hits, classics, and more!
+- play | Play a song!
+- leave | Have Jose leave the voice channel!
+- skip | Skip a song in the queue.
+- volume | Set the playing track to a specific volume.
+
 ### Moderation Commands
 - ban | Permanently remove a member from your server.
 - clear | Clear a number of messages from the channel.
@@ -51,4 +59,3 @@ include_in_header: true
 ### Utility Commands
 - covid-stats | View the COVID-19 statistics for a country or the world.
 - weather | Check the weather forecast for a location!
-
