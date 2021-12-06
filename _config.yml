@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Fun
-    description                           : Enjoyable commands like say, chat, and meme to get some laughs in your server!
+    description                           : Enjoyable commands like say and meme to get some laughs in your server!
     fontawesome_icon_name                 : star
 
   - title                                 : Moderation
@@ -48,11 +48,11 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Music
-    description                           : Neat music commands to use when you and some friends-or just you-are gaming, coolin' off, or maybe even having a conference in your voice channel to add some tunes to your calls!
+    description                           : Neat music commands to use when you and some friends (or just you) are gaming, coolin' off, or maybe even having a conference in your voice channel to add some tunes to your calls!
     fontawesome_icon_name                 : star
   
   - title                                 : Utility
-    description                           : Simple command extras like help and setprefix for your server!
+    description                           : Simple command extras for your server!
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
