@@ -7,7 +7,7 @@ include_in_header: true
 Welcome to Jose The Cow Version 4 aka the Christmas Update! New features, we cleaned up a lot of stuff, added more grass, and **music!**
 
 ### `Latest` 
-# **Christmastime | v3**
+# **Christmastime | v4**
 `v4` brings new features to Jose, focusing on new music and Christmas commands! Anyway, here's the full list of the Jose The Cow commands + some new commands!
 
 **Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
