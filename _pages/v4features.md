@@ -3,7 +3,7 @@ layout: page
 title: Features
 include_in_header: true 
 ---
-### Features - The Christmas Update (v4)
+### Features | The Christmas Update (v4)
 
 **Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
 
