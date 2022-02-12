@@ -3,7 +3,7 @@ layout: page
 title: Features
 include_in_header: true 
 ---
-### Features | v4.2
+### Features | v4.2.1
 
 **Keep in mind that these can only be used as slash commands. If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
 
@@ -49,7 +49,7 @@ say | Have Jose send a message!
 
 talk | Talk to Jose himself!
 
-youtube-together | Watch YouTube with friends!
+quote | Replies with a quote!
 
 ### Miscalleanous Commands
 
@@ -68,6 +68,8 @@ surrealism | Check out Surreal's own bot!
 vote | Vote for Jose The Cow on top.gg!
 
 youtube | Check out the JTC Team YouTube!
+
+hello | Hello!
 
 ### Music Commands
 
