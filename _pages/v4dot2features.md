@@ -3,9 +3,9 @@ layout: page
 title: Features
 include_in_header: true 
 ---
-### Features | v4.1
+### Features | v4.2
 
-**Keep in mind that these can only be used as slash commands (no more prefix!). If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
+**Keep in mind that these can only be used as slash commands. If you have Jose in your server but he doesn't seem to have slash commands, click [here](https://josethecow.ml/invite)!**
 
 ### Economy Commands
 
@@ -94,3 +94,7 @@ slowmode | Set a custom slowmode for the channel you're in!
 covid-stats | View the COVID-19 statistics for a country or the world.
 
 weather | Check the weather forecast for a location!
+
+urban-dictionary | Search up something in the Urban Dictionary!
+
+wiki | Look something up on Wikipedia
