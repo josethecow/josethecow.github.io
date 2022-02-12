@@ -97,4 +97,4 @@ weather | Check the weather forecast for a location!
 
 urban-dictionary | Search up something in the Urban Dictionary!
 
-wiki | Look something up on Wikipedia
+wiki | Look something up on Wikipedia!
