@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Music
     description                           : Neat music commands to use when you and some friends (or just you) are gaming, coolin' off, or maybe even having a conference in your voice channel to add some tunes to your calls!
-    fontawesome_icon_name                 : circle-play
+    fontawesome_icon_name                 : play
   
   - title                                 : Utility
     description                           : Simple command extras for your server!
