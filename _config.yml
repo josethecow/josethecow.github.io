@@ -33,11 +33,11 @@ features                                  :
 
   - title                                 : Economy
     description                           : Unique economy commands that allow you to integrate many different elements of real world banking into Discord.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : money-bill-1-wave
     
   - title                                 : Food
     description                           : Not seen in many Discord bots, Jose's food commands let you buy virtual food from a variety of different restaurants! 
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : utensils
 
   - title                                 : Fun
     description                           : Enjoyable commands like say and meme to get some laughs in your server!
@@ -45,15 +45,15 @@ features                                  :
 
   - title                                 : Moderation
     description                           : Administrator commands that make it easy to moderate your Discord server.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : envelope-open-text
 
   - title                                 : Music
     description                           : Neat music commands to use when you and some friends (or just you) are gaming, coolin' off, or maybe even having a conference in your voice channel to add some tunes to your calls!
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : music
   
   - title                                 : Utility
     description                           : Simple command extras for your server!
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : toolbox
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
