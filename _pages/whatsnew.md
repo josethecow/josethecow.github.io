@@ -12,4 +12,4 @@ urban-dictionary | Search up something on the Urban Dictionary!
 
 wiki | Look something up on Wikipedia!
 
-## Find the full list of commands [here!](https://josethecow.ml/v4dot2features
+## Find the full list of commands [here!](https://josethecow.ml/v4dot2features)
